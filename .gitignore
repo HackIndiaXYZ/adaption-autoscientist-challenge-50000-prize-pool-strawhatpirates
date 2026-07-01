@@ -141,3 +141,15 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+
+#actual_names
+bengali_comic_dataset_builder.html
+
+# Custom ignores for local workspace
+HgSpace/
+hgspace/
+adapted_data/
+adapted\ data/
+venv/
+
